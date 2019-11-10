@@ -1,0 +1,56 @@
+﻿@model MobileSaatasaat.Models.Post
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    Session.Remove("detail");
+}
+<link rel="stylesheet" href="~/assets/css/product_style.css">
+<link rel="stylesheet" href="~/asset/css/product_responsive.css">
+
+<div class="single_product">
+    <div class="container">
+        <div class="row">
+
+            <!-- Selected Image -->
+            <div class="col-lg-5 order-lg-2 order-1">
+                <div class="">
+                    @*<img src="~/images/@Model.CandidateID/CandidatePhoto/@Model.PhotoScanned" height="150" width="150" />*@
+                    <img src="~/images/post/@Model.Image" style="height:100%; width:100%" />
+                    @Html.ValidationMessageFor(model => model.Image, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <!-- Selected Image of Imei_box -->
+            <div class="col-lg-5 order-lg-1 order-1">
+                <div class="container">
+                    <h2>IMEI Code on Box:</h2>
+                    <img src="~/images/box/@Model.ImageOfBox" height="236" width="304" class="img-thumbnail" />
+                    @Html.ValidationMessageFor(model => model.ImageOfBox, "", new { @class = "text-danger" })
+                </div>
+
+                <!-- Selected Image of Imei_mobile -->
+                <div class="container">
+                    <h2>IMEI Code on Mobile:</h2>
+                    <img src="~/images/mobile/@Model.ImageOfMobile" class="img-thumbnail" width="304" height="236" />
+                    @Html.ValidationMessageFor(model => model.ImageOfMobile, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <!-- Description -->
+            <div class="col-lg-5 order-3">
+                <div class="product_description">
+                    <div class="product_name">@Model.Title</div>
+                    <div class="posted_by">Seller: @Model.FullName</div>
+                    <div class="contact">Contact No: @Model.Phone</div>
+                    <div class="product_text"><h2>Descriptions:</h2> <p>@Model.Description</p></div>
+
+                    <div>
+                        <div class="product_price">Nrs.@Model.Price</div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+

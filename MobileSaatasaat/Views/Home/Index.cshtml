@@ -1,0 +1,39 @@
+﻿@model IEnumerable<MobileSaatasaat.Models.Post>
+@{
+    ViewBag.Title = "Home Page";
+    Session["search"] = "search";
+}
+
+<div class="banner">
+    <div class="banner_background" style="background-image:url(/assets/images/banner_background.jpg)"></div>
+    <div class="container fill_height">
+        <div class="row fill_height">
+            <div class="banner_product_image"><img src="~/assets/images/banner_product.png" alt=""></div>
+            <div class="col-lg-8 offset-lg-1.5 fill_height">
+                <div class="banner_content">
+                    <h1 class="banner_text">Genuine Secondhand and brand new smartphones Available</h1>
+                </div>
+                <div class="row text-center mt-5" id="all_posts">
+                    @foreach (var item in Model)
+                    {
+                <div class="col-lg-3 col-md-6 mb-4 mt-5">
+                    <div class="card">
+                        <img class="card-img-top" style="height:169px" src="~/images/post/@item.Image" alt="">
+                        <div class="card-body">
+                            <h4 class="card-title">@item.Title</h4>
+                            <p class="card-text">Nrs.@item.Price</p>
+                        </div>
+                        <div class="card-footer">
+                            <a href="PostsDetail/Details/@item.PostId" class="btn btn-primary">Find Out More!</a>
+                        </div>
+                    </div>
+                </div>
+                    }
+                </div>
+                <div class="row text-center mt-5" id="search_posts" style="display:none">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

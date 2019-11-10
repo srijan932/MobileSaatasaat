@@ -1,0 +1,268 @@
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\MobileSaatasaat.dll.config
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\MobileSaatasaat.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\MobileSaatasaat.pdb
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\csc.exe
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\csc.exe.config
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\csc.rsp
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\csi.exe
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\csi.exe.config
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\csi.rsp
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.Managed.Core.targets
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.AppContext.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Collections.Immutable.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Console.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.IO.Compression.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.IO.FileSystem.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.IO.Pipes.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Reflection.Metadata.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Security.AccessControl.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Security.Claims.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Security.Principal.Windows.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.ValueTuple.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Xml.XmlDocument.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Xml.XPath.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\vbc.exe
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\vbc.exe.config
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\vbc.rsp
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\VBCSCompiler.exe
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\VBCSCompiler.exe.config
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\Antlr3.Runtime.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\Microsoft.Web.Infrastructure.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\Newtonsoft.Json.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Diagnostics.DiagnosticSource.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.Helpers.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.Mvc.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.Optimization.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.Razor.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.WebPages.Deployment.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.WebPages.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.WebPages.Razor.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\WebGrease.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.Helpers.xml
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.Mvc.xml
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.Optimization.xml
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.Razor.xml
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.WebPages.xml
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.WebPages.Deployment.xml
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.WebPages.Razor.xml
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\Newtonsoft.Json.xml
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\Antlr3.Runtime.pdb
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Diagnostics.DiagnosticSource.xml
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\obj\Debug\MobileSaatasaat.csprojAssemblyReference.cache
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\obj\Debug\MobileSaatasaat.csproj.CoreCompileInputs.cache
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\obj\Debug\MobileSaatasaat.csproj.CopyComplete
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\obj\Debug\MobileSaatasaat.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\obj\Debug\MobileSaatasaat.pdb
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\EntityFramework.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\EntityFramework.SqlServer.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\EntityFramework.xml
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\EntityFramework.SqlServer.xml
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\obj\Debug\MobileSaatasaat.Migrations.UserAdded.resources
+D:\intern(am)\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\obj\Debug\MobileSaatasaat.csproj.GenerateResource.cache
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\MobileSaatasaat.dll.config
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\MobileSaatasaat.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\MobileSaatasaat.pdb
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\csc.exe
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\csc.exe.config
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\csc.rsp
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\csi.exe
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\csi.exe.config
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\csi.rsp
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.Managed.Core.targets
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.AppContext.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Collections.Immutable.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Console.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.IO.Compression.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.IO.FileSystem.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.IO.Pipes.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Reflection.Metadata.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Security.AccessControl.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Security.Claims.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Security.Principal.Windows.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.ValueTuple.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Xml.XmlDocument.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Xml.XPath.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\vbc.exe
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\vbc.exe.config
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\vbc.rsp
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\VBCSCompiler.exe
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\roslyn\VBCSCompiler.exe.config
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\Antlr3.Runtime.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\EntityFramework.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\EntityFramework.SqlServer.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\Microsoft.Web.Infrastructure.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\Newtonsoft.Json.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Diagnostics.DiagnosticSource.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.Helpers.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.Mvc.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.Optimization.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.Razor.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.WebPages.Deployment.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.WebPages.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.WebPages.Razor.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\WebGrease.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\EntityFramework.xml
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\EntityFramework.SqlServer.xml
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Diagnostics.DiagnosticSource.xml
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.Helpers.xml
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.Mvc.xml
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.Optimization.xml
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.Razor.xml
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.WebPages.xml
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.WebPages.Deployment.xml
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\System.Web.WebPages.Razor.xml
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\Newtonsoft.Json.xml
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\Antlr3.Runtime.pdb
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\obj\Debug\MobileSaatasaat.csprojAssemblyReference.cache
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\obj\Debug\MobileSaatasaat.Migrations.UserAdded.resources
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\obj\Debug\MobileSaatasaat.csproj.GenerateResource.cache
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\obj\Debug\MobileSaatasaat.csproj.CoreCompileInputs.cache
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\obj\Debug\MobileSaatasaat.csproj.CopyComplete
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\obj\Debug\MobileSaatasaat.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\obj\Debug\MobileSaatasaat.pdb
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\Dapper.dll
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\bin\Dapper.xml
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\obj\Debug\MobileSaatasaat.Migrations.Post.resources
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\obj\Debug\MobileSaatasaat.Migrations.post_createdby.resources
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\MobileSaatasaat.dll.config
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\MobileSaatasaat.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\MobileSaatasaat.pdb
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\csc.exe
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\csc.exe.config
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\csc.rsp
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\csi.exe
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\csi.exe.config
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\csi.rsp
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.Managed.Core.targets
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.AppContext.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Collections.Immutable.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Console.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.IO.Compression.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.IO.FileSystem.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.IO.Pipes.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Reflection.Metadata.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Security.AccessControl.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Security.Claims.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Security.Principal.Windows.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.ValueTuple.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Xml.XmlDocument.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Xml.XPath.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\vbc.exe
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\vbc.exe.config
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\vbc.rsp
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\VBCSCompiler.exe
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\roslyn\VBCSCompiler.exe.config
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\Antlr3.Runtime.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\Dapper.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\EntityFramework.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\EntityFramework.SqlServer.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\Microsoft.Web.Infrastructure.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\Newtonsoft.Json.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\System.Diagnostics.DiagnosticSource.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\System.Web.Helpers.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\System.Web.Mvc.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\System.Web.Optimization.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\System.Web.Razor.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\System.Web.WebPages.Deployment.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\System.Web.WebPages.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\System.Web.WebPages.Razor.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\WebGrease.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\Dapper.xml
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\EntityFramework.xml
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\EntityFramework.SqlServer.xml
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\System.Diagnostics.DiagnosticSource.xml
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\System.Web.Helpers.xml
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\System.Web.Mvc.xml
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\System.Web.Optimization.xml
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\System.Web.Razor.xml
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\System.Web.WebPages.xml
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\System.Web.WebPages.Deployment.xml
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\System.Web.WebPages.Razor.xml
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\Newtonsoft.Json.xml
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\Antlr3.Runtime.pdb
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\obj\Debug\MobileSaatasaat.csprojAssemblyReference.cache
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\obj\Debug\MobileSaatasaat.Migrations.UserAdded.resources
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\obj\Debug\MobileSaatasaat.Migrations.Post.resources
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\obj\Debug\MobileSaatasaat.Migrations.post_createdby.resources
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\obj\Debug\MobileSaatasaat.csproj.GenerateResource.cache
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\obj\Debug\MobileSaatasaat.csproj.CoreCompileInputs.cache
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\obj\Debug\MobileSaatasaat.csproj.CopyComplete
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\obj\Debug\MobileSaatasaat.dll
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\obj\Debug\MobileSaatasaat.pdb
+D:\8sem project\Project\MobileSaatasaat\MobileSaatasaat\obj\Debug\MobileSaatasaat.Migrations._new.resources
+C:\MobileSaatasaat\MobileSaatasaat\MobileSaatasaat\obj\Debug\MobileSaatasaat.Migrations._new.resources

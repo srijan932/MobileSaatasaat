@@ -1,0 +1,87 @@
+﻿@{
+    ViewBag.Title = "Login";
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mobile Saatasaat</title>
+    <link rel="stylesheet" href="~/assets/css/main_style.css">
+    <link rel="stylesheet" href="~/assets/css/responsive.css">
+    <link rel="stylesheet" href="~/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/assets/css/register_and_add_post_style.css">
+    <link rel="stylesheet" href="~/assets/css/font_awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/assets/css/contact_responsive.css">
+    <link rel="stylesheet" href="~/assets/css/contact_style.css">
+    <link rel="stylesheet" href="~/assets/css/AdminLTE.min.css">
+
+    <style>
+        #modal-content {
+            /*background-image: Url(/assets/images/login_background.jpg);*/
+            border: 2px solid black;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="col-lg-2  offset-5">
+        <div class="logo_container">
+            <div class="logo"><a href='/'>Mobile Saatasaat</a></div>
+        </div>
+    </div>
+
+    @using (Html.BeginForm())
+    {
+
+    <div id="modal-content" class="col-sm-4 offset-4 mt-1">
+
+        @*<div class="p-15 formbox" id="modal-content">*@
+            <p class="login-box-msg"></p>
+            @{
+                if (ViewBag.Message != "")
+                {
+                    <div class="callout callout-danger">
+                        <span style="font-size:14px;"> @ViewBag.Message</span>
+                    </div>
+                }
+
+                if (ViewBag.SuccessMessage != "")
+                {
+                    <div class="callout callout-success">
+                        <span style="font-size:14px;"><i class="fa fa-tick"></i>@ViewBag.SuccessMessage</span>
+                    </div>
+                }
+            }
+            <div id="email" class="form-group">
+                <label class="control-label col-md-2" for="Email"><b>Email</b></label>
+                <div class="col-md-12">
+                    <input type="text" placeholder="Enter Email" name="Email" required>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-md-2" for="password"><b>Password</b></label>
+                <div class="col-md-12">
+                    <input type="password" placeholder="Enter Password" name="password" required>
+                </div>
+            </div>
+
+            <div>
+                <button type="submit" class="btn btn-success col-sm-3 col-sm offset-1">Login</button>
+            </div>
+
+            <div class="control-label col-md-5 mt-3">
+                <label>
+                    <input type="checkbox" checked="checked" name="remember"> Remember me
+                </label>
+            </div>
+
+            <div class="control-label col-md">
+                New User<a href="/Users/Create">Register</a> | Forgot <a href="#">password?</a>
+            </div>
+
+        </div>
+        }
+
+</body>
+</html>
